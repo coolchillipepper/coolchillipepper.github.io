@@ -7,7 +7,7 @@ This is a personal portfolio website built using the Escape Velocity template by
 
 ## What’s Inside?
 A multi-paged website which contains sections for:
-+ My CV 
++ My CV and hobbies
 + Descriptions and links to projects I've worked on
 + Custom text, links, and embedded imagery relevant to my experience.
 
