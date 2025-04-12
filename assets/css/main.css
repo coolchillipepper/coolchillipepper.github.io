@@ -34,6 +34,10 @@ img.test1 {
   height: auto;
 }
 
+h2 {
+  line-height: 1.25;
+}
+
 img.test2 {
   max-width: 112%;
   height: auto;
