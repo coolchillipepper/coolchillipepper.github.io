@@ -29,8 +29,13 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
-img.test {
+img.test1 {
   max-width: 14.5%;
+  height: auto;
+}
+
+img.test2 {
+  max-width: 112%;
   height: auto;
 }
 
