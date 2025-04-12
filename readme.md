@@ -2,8 +2,8 @@
 This is a personal portfolio website built using the Escape Velocity template by HTML5 UP. The template features a clean, spacious, and responsive design with a minimalistic flair. I used it to showcase my curriculum vitae and various computer-related projects.
 
 ## About This Project
-**Template Source**: Escape Velocity by HTML5 UP
-**Original Template Author**: @ajlkn
++ **Template Source**: Escape Velocity by HTML5 UP
++ **Original Template Author**: @ajlkn
 
 ## What’s Inside?
 A multi-paged website which contains sections for:
